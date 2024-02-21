@@ -1,2 +1,2 @@
 # userservice
-demo
+demos
