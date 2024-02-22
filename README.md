@@ -1,3 +1,2 @@
 # userservice
 demo
-service
