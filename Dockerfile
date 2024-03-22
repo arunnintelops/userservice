@@ -16,6 +16,8 @@ FROM mcr.microsoft.com/dotnet/aspnet:7.0
 # Set the working directory inside the container
 WORKDIR /app
 
+CMD "h"
+
 # Copy the published application from the build environment
 COPY --from=build-env /app/out .
 
